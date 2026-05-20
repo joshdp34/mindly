@@ -1,0 +1,144 @@
+---
+title: "Mindly Terms of Use"
+format:
+  html:
+    toc: true
+    theme: cosmo
+    page-layout: article
+---
+
+Last updated: May 20, 2026
+
+These Terms of Use ("Terms") govern your use of Mindly, a mobile puzzle app that provides daily puzzles, archive puzzles, streaks, stats, and spoiler-free sharing.
+
+Replace the bracketed placeholders before publishing this page:
+
+- **Developer name:** `Joshua Patrick`
+- **Contact email:** `mindlypuzzles@gmail.com`
+- **Terms URL:** `https://joshdp34.github.io/mindly/terms.html`
+- **Privacy URL:** `https://joshdp34.github.io/mindly/`
+
+## Acceptance of These Terms
+
+By downloading, accessing, or using Mindly, you agree to these Terms. If you do not agree, do not use the app.
+
+## Who We Are
+
+Mindly is operated by `Joshua Patrick`.
+
+For questions about these Terms, contact us at `mindlypuzzles@gmail.com`.
+
+## The App
+
+Mindly provides short puzzle games, including daily puzzles and archived puzzles. Features may include:
+
+- Daily puzzle access
+- Archive puzzle access
+- Streaks and stats
+- Puzzle progress saved on your device
+- Spoiler-free sharing
+- Optional reminders
+- Paid subscription access to archived puzzles
+
+We may add, remove, update, pause, or change games, features, puzzle content, or app functionality over time.
+
+## Accounts
+
+Mindly does not currently require an account. If account features are added later, additional terms or policies may apply.
+
+## Daily Puzzles and Archive Access
+
+Daily puzzles may be available without a paid subscription.
+
+Archive access may require an active monthly subscription. Archive availability, included puzzles, and subscription benefits may change over time.
+
+We do not guarantee that every past puzzle will always remain available, or that puzzle content will be available without interruption.
+
+## Subscriptions and Billing
+
+Mindly may offer a monthly paid subscription for archive access.
+
+Subscriptions are processed through the app store platform where you obtained the app, such as Google Play. Subscription billing, renewal, cancellation, refunds, and payment methods are handled by the app store platform and are subject to that platform's terms and policies.
+
+Unless canceled according to the app store's rules, subscriptions may renew automatically. You are responsible for managing or canceling your subscription through your app store account settings.
+
+We do not receive or store your full payment card information.
+
+## Refunds
+
+Refunds, if available, are handled by the app store platform where the purchase was made. We cannot guarantee refunds outside the app store's policies.
+
+## Puzzle Content
+
+Mindly puzzle content is provided for entertainment and general educational purposes. We aim to make puzzles accurate, fair, family-friendly, and enjoyable, but puzzle content may contain mistakes, outdated information, ambiguity, or typographical errors.
+
+If you find a problem with a puzzle, contact us at `mindlypuzzles@gmail.com`.
+
+## Your Use of Mindly
+
+You agree not to:
+
+- Use Mindly for unlawful purposes
+- Attempt to disrupt, damage, overload, or interfere with the app or its services
+- Attempt to bypass subscription access controls
+- Reverse engineer, scrape, copy, or redistribute substantial parts of the app or puzzle content except as allowed by law
+- Use automated tools to extract puzzle content or app data
+- Misrepresent your relationship with Mindly or `Joshua Patrick`
+
+## Intellectual Property
+
+Mindly, including its app design, puzzle content, text, game names, graphics, icons, and other materials, is owned by `Joshua Patrick` or its licensors, except where otherwise noted.
+
+You may use Mindly for personal, non-commercial entertainment. These Terms do not give you ownership of Mindly or its content.
+
+## User-Generated Sharing
+
+Mindly may let you create spoiler-free share text. You are responsible for where and how you share that text. Do not use sharing features to harass others, violate laws, or infringe others' rights.
+
+## Privacy
+
+Your use of Mindly is also governed by our Privacy Policy:
+
+`https://joshdp34.github.io/mindly/`
+
+## Third-Party Services
+
+Mindly may rely on third-party services, including:
+
+- Supabase for puzzle content and image delivery
+- Google Play or other app store platforms for distribution and subscription billing
+
+Third-party services are governed by their own terms and policies. We are not responsible for third-party service outages, policies, or actions.
+
+## Availability and Changes
+
+Mindly may be unavailable from time to time due to maintenance, updates, technical problems, or third-party service issues.
+
+We may change, suspend, or discontinue any part of Mindly at any time. We may also update these Terms from time to time. If we update these Terms, we will update the "Last updated" date.
+
+## Disclaimers
+
+Mindly is provided "as is" and "as available." To the fullest extent allowed by law, we disclaim warranties of any kind, whether express, implied, or statutory, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+We do not guarantee that Mindly will be error-free, uninterrupted, secure, or always available.
+
+## Limitation of Liability
+
+To the fullest extent allowed by law, `Joshua Patrick` will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for lost profits, lost data, or loss of goodwill arising from or related to your use of Mindly.
+
+Some jurisdictions do not allow certain limitations of liability, so some of these limitations may not apply to you.
+
+## Termination
+
+You may stop using Mindly at any time. We may suspend or terminate access to Mindly if we believe you have violated these Terms, misused the app, or created risk for us, other users, or third-party services.
+
+## Governing Law
+
+These Terms are governed by the laws of the state of Texas, without regard to conflict-of-law rules, unless applicable law requires otherwise.
+
+## Contact
+
+For questions about these Terms, contact:
+
+`Joshua Patrick`  
+`mindlypuzzles@gmail.com`
